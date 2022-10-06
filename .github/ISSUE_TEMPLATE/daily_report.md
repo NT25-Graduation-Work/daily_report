@@ -1,9 +1,9 @@
 ---
 name: daily_report
 about: プロジェクト用日次作業報告書
-title: プロジェクト用日次作業報告書
+title: yyyy-MM-dd(年月日)
 labels: ''
-assignees: Katsuyuki-Karasawa
+assignees: ''
 
 ---
 
